@@ -26,7 +26,7 @@ While there are countless calculator applications available, this project offers
 Contributions to this project are welcomed! Whether it's refining the user interface, adding new features, or optimizing code efficiency, your contributions can help improve the functionality and usability of this calculator. Simply fork the repository, make your changes, and submit a pull request for review.
 
 ## License
-This project is licensed under the MIT License, promoting open collaboration and distribution. You are free to use, modify, and distribute this Simple Calculator as per the terms of the license agreement.
+This project is licensed under the [MIT License](https://github.com/mateusartico/calculadora-html/blob/main/LICENSE), promoting open collaboration and distribution. You are free to use, modify, and distribute this Simple Calculator as per the terms of the license agreement.
 
 ## Disclaimer
 While this calculator serves as a handy tool for performing basic arithmetic operations, it is important to note that complex mathematical tasks may require specialized software. This calculator is designed for simplicity and convenience and may not cover all advanced mathematical functionalities. Being my first HTML project, I took inspiration from various code snippets and examples to guide me through the development process.
